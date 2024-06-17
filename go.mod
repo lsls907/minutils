@@ -1,4 +1,4 @@
-module github.com/minutils
+module github.com/lsls907/minutils
 
 go 1.20
 
