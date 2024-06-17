@@ -1,4 +1,4 @@
-module minutils
+module github.com/minutils
 
 go 1.20
 
